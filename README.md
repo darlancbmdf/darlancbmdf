@@ -1,10 +1,13 @@
-## 👋 Olá, eu sou o Darlan
+### Olá! eu sou o Darlan Costa!👋
+<br>
 
-- 👀 Tenho interesse em aprender cada vez mais.
-- 🌱 Atualmente estou aprendendo várias linguagens de programação.
-- 💞️ Procuro colaborar com pessoas que como eu, querem sempre aprender.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-costa-magalh%c3%a3es-1b8a0768/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darlancmagalhaes/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dWH7ne6E)
 
-<!---
-darlancbmdf/darlancbmdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Darlan GitHub stats ](https://github-readme-stats.vercel.app/api?username=darlancbmdf&show_icons=true&theme=radical)
+
+### Tecnologias que eu uso no meu dia a dia
+
+<div style="display:inline_block" ><br/>
+<img align="center" alt="outsystems" src="https://media-exp1.licdn.com/dms/image/C560BAQFs9sLsIuJjCQ/company-logo_200_200/0/1519856179274?e=2147483647&v=beta&t=-Z3Yk3-vNR_VEJ4v7BPDBk7NLwtr_VEkl9Vb1JweJlQ" style="width:50px"> 
+<img align="center" alt="WordPress" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFzR9P7ux6x-DWUCTlTPvk8wxBVSHK5BSg3vECGpj2Szfe54GzMzHS_yHZikgn4bJaok&usqp=CAU" style="width:50px">
+</div>
