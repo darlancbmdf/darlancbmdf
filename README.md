@@ -8,6 +8,6 @@
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display:inline_block" ><br/>
-<img align="center" alt="outsystems" src="https://media-exp1.licdn.com/dms/image/C560BAQFs9sLsIuJjCQ/company-logo_200_200/0/1519856179274?e=2147483647&v=beta&t=-Z3Yk3-vNR_VEJ4v7BPDBk7NLwtr_VEkl9Vb1JweJlQ" style="width:50px" target="#"> 
-<img align="center" alt="WordPress" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFzR9P7ux6x-DWUCTlTPvk8wxBVSHK5BSg3vECGpj2Szfe54GzMzHS_yHZikgn4bJaok&usqp=CAU" style="width:50px">
+<img align="center" alt="outsystems" src="https://media-exp1.licdn.com/dms/image/C560BAQFs9sLsIuJjCQ/company-logo_200_200/0/1519856179274?e=2147483647&v=beta&t=-Z3Yk3-vNR_VEJ4v7BPDBk7NLwtr_VEkl9Vb1JweJlQ" style="width:50px" target="_blank"> 
+<img align="center" alt="WordPress" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFzR9P7ux6x-DWUCTlTPvk8wxBVSHK5BSg3vECGpj2Szfe54GzMzHS_yHZikgn4bJaok&usqp=CAU" style="width:50px" target="_blank">
 </div>
