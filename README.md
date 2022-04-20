@@ -10,4 +10,6 @@
 <div style="display:inline_block" >
 <a href="https://www.outsystems.com/profile/nc1ft7aiyc/" target="_blank"><img align="center" alt="outsystems" src="https://media-exp1.licdn.com/dms/image/C560BAQFs9sLsIuJjCQ/company-logo_200_200/0/1519856179274?e=2147483647&v=beta&t=-Z3Yk3-vNR_VEJ4v7BPDBk7NLwtr_VEkl9Vb1JweJlQ" style="width:50px" target="_blank"></a>
 <a href="https://www.cbm.df.gov.br" target="blank"><img align="center" alt="WordPress" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFzR9P7ux6x-DWUCTlTPvk8wxBVSHK5BSg3vECGpj2Szfe54GzMzHS_yHZikgn4bJaok&usqp=CAU" style="width:50px" target="_blank"></a>
+<img align="center" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
 </div>
