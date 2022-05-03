@@ -12,4 +12,6 @@
 <a href="https://www.cbm.df.gov.br" target="blank"><img align="center" alt="WordPress" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFzR9P7ux6x-DWUCTlTPvk8wxBVSHK5BSg3vECGpj2Szfe54GzMzHS_yHZikgn4bJaok&usqp=CAU" style="width:50px" target="_blank"></a>
 <img align="center" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="height:50px; width:auto" target="_blank">  
 </div>
